@@ -1,0 +1,2383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"constructor\tReact.Component"
+			],
+			[
+				"log",
+				"console.log"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"sub",
+				"subParts"
+			],
+			[
+				"shle",
+				"shelfId"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"spa",
+				"spaceCatchingRegex"
+			],
+			[
+				"ans",
+				"answerkey"
+			],
+			[
+				"sho",
+				"showBuggyFlag"
+			],
+			[
+				"sea",
+				"searchText"
+			],
+			[
+				"can",
+				"canAccessBugReportHistory"
+			],
+			[
+				"user",
+				"userManagement"
+			],
+			[
+				"upda",
+				"updateData"
+			],
+			[
+				"update",
+				"updateUserInfo"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"useri",
+				"userInfo"
+			],
+			[
+				"sele",
+				"selectedUser"
+			],
+			[
+				"path",
+				"path"
+			],
+			[
+				"page",
+				"pages"
+			],
+			[
+				"rout",
+				"routeConfig"
+			],
+			[
+				"Rou",
+				"Route"
+			],
+			[
+				"new",
+				"newShelf"
+			],
+			[
+				"bugRe",
+				"bugReport"
+			],
+			[
+				"bu",
+				"bugReports"
+			],
+			[
+				"bug",
+				"bugReports"
+			],
+			[
+				"res",
+				"resolveState"
+			],
+			[
+				"get",
+				"getRecordToggleIndex"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"desc",
+				"descValue"
+			],
+			[
+				"inca",
+				"inactiveSendButton"
+			],
+			[
+				"clea",
+				"cleanedStepOne"
+			],
+			[
+				"cu",
+				"currentColorThemeName"
+			],
+			[
+				"User",
+				"UserList"
+			],
+			[
+				"type",
+				"typeSetedQuestions"
+			],
+			[
+				"elem",
+				"elems"
+			],
+			[
+				"ele",
+				"elem"
+			],
+			[
+				"ref",
+				"refs"
+			],
+			[
+				"commit",
+				"commits"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"comm",
+				"commitsHistory"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"typ",
+				"typeSetedQuestions"
+			],
+			[
+				"tar",
+				"targetId"
+			],
+			[
+				"conn",
+				"connectDragPreview"
+			],
+			[
+				"tart",
+				"targetComponent"
+			],
+			[
+				"sour",
+				"sourceId"
+			],
+			[
+				"soui",
+				"sourceId"
+			],
+			[
+				"reco",
+				"records"
+			],
+			[
+				"di",
+				"_dispatch"
+			],
+			[
+				"shelf",
+				"shelfId"
+			],
+			[
+				"ta",
+				"targetIndex"
+			],
+			[
+				"hove",
+				"hoverRectMiddle"
+			],
+			[
+				"hover",
+				"hoverRect"
+			],
+			[
+				"she",
+				"shelfId"
+			],
+			[
+				"pic",
+				"pickBy"
+			],
+			[
+				"recor",
+				"records"
+			],
+			[
+				"doc",
+				"docType"
+			],
+			[
+				"foun",
+				"foundIndex"
+			],
+			[
+				"teb",
+				"tebyan_application_dir"
+			],
+			[
+				"shl",
+				"shelf"
+			],
+			[
+				"shel",
+				"shelfId"
+			],
+			[
+				"co",
+				"component"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"is",
+				"isDraggingRecord"
+			],
+			[
+				"pre",
+				"prevProps"
+			],
+			[
+				"coll",
+				"collectTarget"
+			],
+			[
+				"conne",
+				"connect"
+			],
+			[
+				"Dragg",
+				"DraggableRecord"
+			],
+			[
+				"Reco",
+				"RecordListEl"
+			],
+			[
+				"Dra",
+				"DragDropContext"
+			],
+			[
+				"Rea",
+				"ReactDOM"
+			],
+			[
+				"prin",
+				"printExamType"
+			],
+			[
+				"remo",
+				"removeExtraData"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"ty",
+				"typeSetedQuestion"
+			],
+			[
+				"list",
+				"listinga"
+			],
+			[
+				"pa",
+				"parents"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"ha",
+				"hasAnswer"
+			],
+			[
+				"ren",
+				"renderAnswers"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"ran",
+				"randomIndex"
+			],
+			[
+				"sear",
+				"searchBar"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"emi",
+				"emitSubmit"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"cen",
+				"centerPart1"
+			],
+			[
+				"porta",
+				"portalWrapper"
+			],
+			[
+				"po",
+				"portalWrapper"
+			],
+			[
+				"inpu",
+				"inputValue"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"colo",
+				"coloring"
+			],
+			[
+				"an",
+				"animation"
+			],
+			[
+				"opa",
+				"opacity-animation"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mul",
+				"multiSelect"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"vlu",
+				"values"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"ex",
+				"existingVals"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"dis",
+				"distConfig"
+			],
+			[
+				"ligh",
+				"lighten"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"emp",
+				"emptyLastChild"
+			],
+			[
+				"em",
+				"emptyFirstChild"
+			],
+			[
+				"par",
+				"parags"
+			],
+			[
+				"fus",
+				"fusedList"
+			],
+			[
+				"the",
+				"theList"
+			],
+			[
+				"se",
+				"selectedValuePath"
+			],
+			[
+				"lo",
+				"lodash"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"por",
+				"props"
+			],
+			[
+				"top",
+				"topicFields"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"pare",
+				"parnetValueByOptionValue"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"some",
+				"somethings"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Hossein/Desktop/client/src/index.js",
+			"settings":
+			{
+				"buffer_size": 105,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Hossein/Desktop/client/index.html",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Hossein/Desktop/client/src/changeBodyColor.js",
+			"settings":
+			{
+				"buffer_size": 79,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					""
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"just build"
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"build and upload"
+				]
+			],
+			[
+				"Packages/arduino-cli/arduino-cli.sublime-build",
+				"build and upload"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packagelis",
+				"Package Control: List Packages"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"json pr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"jsonpre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"rea",
+				"git: restore file assumed unchanged"
+			],
+			[
+				"setls",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"set",
+				"Set Syntax: Stylus"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"packup",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"themli",
+				"Themr: List themes"
+			],
+			[
+				"thne",
+				"Themr: Next theme"
+			],
+			[
+				"schme",
+				"Schemr: List all schemes"
+			],
+			[
+				"Snippet: ",
+				"Snippet: try catch finally"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"setstyl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"and",
+				"ANF: Delete Current File"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"i",
+				"Increment Selection"
+			],
+			[
+				"inc",
+				"Increment Selection"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"setba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"r",
+				"File: Rename"
+			],
+			[
+				"tospa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"synls",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"converto",
+				"Indentation: Convert to all views to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"synstyl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"set aar",
+				"Set Syntax: Arduino"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"rena\t",
+				"File: Rename"
+			],
+			[
+				"setliv\t\t",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"page",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"setsyasm",
+				"Set Syntax: AVR ASM"
+			],
+			[
+				"tos",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"totab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sesylive",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"thme",
+				"Themr: List themes"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"termia",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"prefuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"setfish",
+				"Set Syntax: Shell Script (fish)"
+			],
+			[
+				"lscri",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"incr",
+				"Increment Selection"
+			],
+			[
+				"sets",
+				"Set Syntax: Stylus"
+			],
+			[
+				"increme",
+				"Increment Selection"
+			],
+			[
+				"setli",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"setco",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"reins",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"then",
+				"Themr: Next theme"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"setstylu",
+				"Set Syntax: Stylus"
+			],
+			[
+				"syls",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"di",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"extar",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"addrep",
+				"Package Control: Add Repository"
+			],
+			[
+				"setlive",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"setbabe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo v",
+				"Package Control: Remove Package"
+			],
+			[
+				"reposi",
+				"Package Control: Remove Repository"
+			],
+			[
+				"choose",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"disabl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"enabl",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"extrac",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"setsjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setslive",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"liv",
+				"LiveScript: Compile Current File"
+			],
+			[
+				"extra",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"live",
+				"LiveScript: Compile Current File"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"dlete",
+				"File: Delete"
+			],
+			[
+				"setjav",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"anf",
+				"ANF: Copy Current File"
+			],
+			[
+				"open",
+				"File: Copy Path From Project Encoded"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: Convert Underlined Headers to ATX"
+			],
+			[
+				"ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"diabl",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"delel",
+				"ANF: Delete File"
+			],
+			[
+				"scheme",
+				"Schemr: List all schemes"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 293.0,
+		"history":
+		[
+			"--------------------------------------------",
+			"cls",
+			"clear()",
+			"clear",
+			"sublime.log_commands(True)",
+			"Sublime.log_commands(True)",
+			"cd /~",
+			"cd ~",
+			"x!",
+			"x",
+			"w!",
+			"q!",
+			"q",
+			"quit",
+			"cd",
+			"cd /",
+			"print a",
+			"cd /",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Hossein/Desktop/client",
+		"/Users/Hossein/Desktop/client/src"
+	],
+	"file_history":
+	[
+		"/Users/Hossein/Downloads/jflex-1.6.1/bin/jflex",
+		"/Users/Hossein/Desktop/client/index.html",
+		"/Users/Hossein/Desktop/client/package.json",
+		"/Users/Hossein/Desktop/client/webpack.config.js",
+		"/Users/Hossein/Desktop/client/dist/bundle.js",
+		"/Users/Hossein/Desktop/client/xeno/Workshop2-FirstClient.sublime-project",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/DraggableRecord.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/AddMoreQuestions.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry/processText.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry/cleanUpText.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/improveQuestionText.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry/PageStructure.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/actions.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/ShelfList.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/AddAllRecords.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/PageStructure.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/ShelfList.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/actions.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry/CategorizeBar.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/SubjectTree.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/SubjectTree/Option.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/SingleSelector.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/Question.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/index.html",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/makeSpacesBetweenPersianVersusVisible.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/BatchEntry/DataEntryQuestion.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/Choices.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/changeFloatingPointToSlash.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/alignImagesToLeft.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/connectUnderlinedPersian.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/colors.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/createWebpackConfig.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/typeSeter/Question.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/PrintForm.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/RecordModal.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/RecordModal.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/Question.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Editor/EditorBlock.styl",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/communicator/Communicator.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/package.json",
+		"/Users/Hossein/Projects/Flora/flora-frontend/package.json",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/SubShelfSelector.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/SubShelfSelector.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/entries/index.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/pages/App.ls",
+		"/Users/Hossein/Projects/Lernito/buildFrontend.sh",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/webpack.config.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/home/PageStructure.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/UserList.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/elements/TextField.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry/actions.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/BugReporter.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/profile/pageController.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/general/SideBarAndBodyLayout.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/actions.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/store.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/getters.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/UserInfo.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/FormView.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/MetaForm.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/mathjaxQueue.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/PageStructure.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/UserList.styl",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/search/getters.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/getters.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/403/PageStructure.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/home/pageController.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/pageController.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/pageController.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/pageController.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/lib/setupEnv.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry/pageController.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/commits/pageController.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/pages/App.styl",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/sideBar/SideBar.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/Sidebar.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/sideBar/Item.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/404/pageController.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/404/PageStructure.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/404/PageStructure.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/communicator/SessionManager.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/ExamBar.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/ShelfSelector.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Shelf/store.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/BugReporter.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/communication/resolveBugReport.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/communication/toggleBuggyFlag.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/BugReporter/actions.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/RecordList.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/store.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/search/store.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/communication/submitBugReport.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/distConfig/actions.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search/PageStructure.styl",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/elements/ColorPalette.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/elements/TextAndColorPicker.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/Legacy/Loading.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/PageStructure.styl",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/themes/defaultDistConfig.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/admin/helpers/ChangeColorThemeForm.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/userManagement/UserInfo.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/prepareMathjax.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/QuestionContainer.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/entries/index.styl",
+		"/Users/Hossein/Projects/Flora/flora-frontend/.gitignore",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/QuestionContainer.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/auth/signOut/pageController.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/lib/core.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/lib/FrontendCore.ls",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/communicator/[Errno 2] No such file or directory",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/communicator/[cmd",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/communicator/[dir",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/communicator/[path",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/typeSeter/RecordList.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/Question/Choices.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/typeSeter/RecordList.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/cleanifyHTML.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/alignFormulasToLeft.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/typeSeter/Question.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/funcs/structureNormalizer.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/BatchEntry/QuestionTile.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/BatchEntry/DataEntryQuestion.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/BatchEntry/QuestionList.styl",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements/BatchEntry/QuestionList.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry/PageStructure.styl",
+		"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces/elements/Selectia.ls",
+		"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/home/Searchain.ls"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend",
+			"/Users/Hossein/Projects/Flora/flora-frontend",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend,-*.styl",
+			"/Users/Hossein/Projects/Flora/flora-frontend,-*.styl",
+			"/Users/Hossein/Projects/Flora/flora-frontend",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Flora/flora-frontend",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Flora/flora-frontend",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/k12Search",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/elements",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Flora/flora-frontend",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces/batchEntry",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend",
+			"/Users/Hossein/Projects/Flora/flora-frontend",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/lib",
+			"/Users/Hossein/Projects/Flora/flora-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/lernito-frontend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/Lernito Rosetta Branch/rosetta-backend",
+			"/Users/Hossein/Projects/Lernito/Lernito Rosetta Branch/rosetta-backend/node_modules",
+			"/Users/Hossein/Projects/Lernito/Lernito Rosetta Branch/rosetta-backend",
+			"/Users/Hossein/Projects/Lernito/Lernito Rosetta Branch/rosetta-backend/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src/namespaces/elements",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src/namespaces/k12BatchEntry",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-backend/src/namespaces/k12",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-backend/src",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src/namespaces/elements",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src/namespaces",
+			"/Users/Hossein/Projects/Lernito/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12BatchEntry",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12Search",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12BatchEntry",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12Search",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12BatchEntry",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/commits",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12Search",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12BatchEntry",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/elements/k12",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-backend/src/namespaces",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-backend/src/namespaces",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-backend",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-backend",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-backend/src/lib",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-backend/src/namespaces",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-backend/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"<project>",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/k12BatchEntry",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/elements/k12/tile",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src/namespaces/search",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega",
+			"<project>",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega",
+			"/Users/Hossein/Projects/K12/Rosetta Project/rosetta-omega/src",
+			"<project>",
+			"/Users/Hossein/Documents/My Educational Life/Side Learnings/Javascript/Rosetta Project/",
+			"/Users/Hossein/Documents/My Educational Life/Side Learnings/Javascript/Rosetta Project/rosetta-backend",
+			"/Users/Hossein/Documents/My Educational Life/Side Learnings/Javascript/Rosetta Project/rosetta-omega",
+			"/Users/Hossein/Documents/My Educational Life/Side Learnings/Javascript/Rosetta Project/rosetta-omega/src",
+			"/Users/Hossein/Documents/My Educational Life/Side Learnings/Javascript/Rosetta Project/",
+			"/Users/Hossein/Documents/My Educational Life/Side Learnings/Javascript/Rosetta Project/rosetta-backend/src",
+			"<project>",
+			"project",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"node_modules",
+			"BrowserSyncPlugin",
+			"_handleDropedFile",
+			"processText",
+			"\\u",
+			"countThreshold",
+			"getSelectedShelfRecordCount",
+			"getSelectedShelf",
+			"getSelectedShelfRecordCount",
+			"countThreshold",
+			"onClickOutside",
+			"countThreshold",
+			"addQuery",
+			"toggleBuggyFlag",
+			"buggy",
+			"can",
+			"groupBy",
+			"getSidebarStructure",
+			"onSidebarFormChange",
+			"getSidebarStructure",
+			"getFilter",
+			"TopicFilter",
+			"topicFilter",
+			"onTopicReducerFormChange",
+			"1.2",
+			" except ?",
+			"-\\u061E\\u0620",
+			"improveQuestionText",
+			"changeFloatingPointToSlash",
+			"improveQuestionText",
+			"changeFloatingPointToSlash",
+			"\\s",
+			"\\u0600-\\u06FF\\uFB8A\\u067E\\u0686\\u06AF",
+			"connectUnderlinedPersian",
+			"fix",
+			"shouldPutChoicesInFrontOfImage",
+			"choices",
+			"choicesInFrontOfImage",
+			"shouldPutChoicesInFrontOfImage",
+			"renderQuestions",
+			"typeSetMath",
+			"getExamPDF",
+			"appe",
+			"getLocalIpAddress",
+			"_createSocketPromise",
+			"21",
+			"sign-in",
+			"childR",
+			"getFormStructure",
+			"loadNewQuestions",
+			"getFormStructure",
+			"showBuggyFlag",
+			"canAccessBuggyQuestions",
+			"showBuggyFlag",
+			"bug",
+			"props",
+			"filterList",
+			"canAccessBuggyQuestions",
+			"buggy",
+			"canAccessBuggyQuestions",
+			"AccessBuggyQuestions",
+			"toggleBuggyFlag",
+			"canChangeQuestionIsBuggyFlags",
+			"didmoun",
+			"bugReports",
+			"ResolveBugReports",
+			"AccessBugReportHistory",
+			"ChangeQuestionIsBuggyFlags",
+			"canShit",
+			"unimplemented",
+			"core.service",
+			"console.log",
+			"pull",
+			"console.log",
+			"getFormStructure",
+			"loadNewQuestions",
+			"trigger",
+			"isSelected",
+			"getStructureByShelfType",
+			"mathjaxQueue",
+			"#0069a6",
+			"No user",
+			"console.log",
+			"SideBarAndBodyLayout",
+			"IndexRoute",
+			"omit",
+			"flatten",
+			"pages.default",
+			"IndexRoute",
+			"require",
+			"404",
+			"_sessionManager",
+			"isId",
+			"renderShelvesColumn",
+			"iden",
+			"SimpleSelect",
+			"multiSelect",
+			"MultiSelect",
+			"SimpleSelect",
+			"MultiSelect",
+			"react-selectize",
+			"UserShelves",
+			"userShelves",
+			"UserShelves",
+			"userShelves",
+			"padding",
+			"addRecordToShelf",
+			"email",
+			"resolved",
+			"bugReports",
+			"bugRe",
+			"subParts",
+			"sub",
+			"makeDraggable",
+			"index",
+			"toggleBuggyFlag",
+			"lernitoIcons",
+			"Icons",
+			"bug",
+			"onToggleBuggyFlag",
+			"bugReports",
+			"props",
+			"handleBugReport",
+			"submitBugReport",
+			"data",
+			"\"",
+			"handleBugReport",
+			"Bug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lodash",
+			"lodash/debounce",
+			"lodash/find",
+			"lodash/isEqual",
+			"batchEntry",
+			"batchEntry.",
+			"batchEntry",
+			"font-family lernitoIcons",
+			"lernitoIcons",
+			"",
+			"Icons",
+			"\\shelf/addRecordToShelf",
+			"\\shelf/removeShelf",
+			"\\shelf/addRecordToShelf",
+			"\\shelf/getUserShelves",
+			"\\shelf/getShelfRecords",
+			"\\shelf/getMetaFormStructure",
+			"\\shelf/updateShelfMeta",
+			"\\questions/findQuestions",
+			"\\meta/getMetaVariations\n@",
+			"\n@"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Hossein/Desktop/client/src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_savvy.file_path": "/Users/Hossein/Desktop/client/src/index.js",
+							"git_savvy.repo_path": "/Users/Hossein/Desktop",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Hossein/Desktop/client/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_savvy.file_path": "/Users/Hossein/Desktop/client/index.html",
+							"git_savvy.repo_path": "/Users/Hossein/Desktop",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Hossein/Desktop/client/src/changeBodyColor.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_savvy.file_path": "/Users/Hossein/Desktop/client/src/changeBodyColor.js",
+							"git_savvy.repo_path": "/Users/Hossein/Desktop",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 204.0
+	},
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 192.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 216.0
+	},
+	"pinned_build_system": "",
+	"project": "Workshop2-FirstClient.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"create",
+				"flora-frontend/createWebpackConfig.ls"
+			],
+			[
+				"searchactions",
+				"lernito-frontend/src/namespaces/k12Search/actions.ls"
+			],
+			[
+				"imp",
+				"lernito-frontend/src/namespaces/funcs/improveQuestionText.ls"
+			],
+			[
+				"batchentry",
+				"lernito-frontend/src/namespaces/batchEntry/cleanUpText.ls"
+			],
+			[
+				"addall",
+				"lernito-frontend/src/namespaces/k12Search/AddAllRecords.ls"
+			],
+			[
+				"k12seapage",
+				"lernito-frontend/src/namespaces/k12Search/PageStructure.ls"
+			],
+			[
+				"shelf",
+				"lernito-frontend/src/namespaces/k12Search/ShelfList.ls"
+			],
+			[
+				"k12search/act",
+				"lernito-frontend/src/namespaces/k12Search/actions.ls"
+			],
+			[
+				"k12she/page",
+				"lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls"
+			],
+			[
+				"shelfli",
+				"lernito-frontend/src/namespaces/k12Search/ShelfList.ls"
+			],
+			[
+				"k12searchpage",
+				"lernito-frontend/src/namespaces/k12Search/PageStructure.ls"
+			],
+			[
+				"searchshelf",
+				"lernito-frontend/src/namespaces/k12Search/ShelfList.ls"
+			],
+			[
+				"ququ",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"single",
+				"lernito-frontend/src/namespaces/elements/SingleSelector.ls"
+			],
+			[
+				"option",
+				"lernito-frontend/src/namespaces/elements/SubjectTree/Option.ls"
+			],
+			[
+				"subjec",
+				"lernito-frontend/src/namespaces/elements/SubjectTree.ls"
+			],
+			[
+				"batchcate",
+				"lernito-frontend/src/namespaces/batchEntry/CategorizeBar.ls"
+			],
+			[
+				"improve",
+				"lernito-frontend/src/namespaces/funcs/improveQuestionText.ls"
+			],
+			[
+				"index.h",
+				"lernito-frontend/index.html"
+			],
+			[
+				"dataen",
+				"lernito-frontend/src/namespaces/elements/BatchEntry/DataEntryQuestion.ls"
+			],
+			[
+				"choi",
+				"lernito-frontend/src/namespaces/elements/Question/Choices.ls"
+			],
+			[
+				"aligima",
+				"lernito-frontend/src/namespaces/funcs/alignImagesToLeft.ls"
+			],
+			[
+				"typeset",
+				"lernito-frontend/src/namespaces/elements/typeSeter/Question.ls"
+			],
+			[
+				"print",
+				"lernito-frontend/src/namespaces/k12Shelf/PrintForm.ls"
+			],
+			[
+				"que",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"recordm",
+				"lernito-frontend/src/namespaces/elements/RecordModal.ls"
+			],
+			[
+				"slash",
+				"lernito-frontend/src/namespaces/funcs/changeFloatingPointToSlash.ls"
+			],
+			[
+				"quq",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"edito",
+				"lernito-frontend/src/namespaces/elements/Editor/EditorBlock.styl"
+			],
+			[
+				"changefl",
+				"lernito-frontend/src/namespaces/funcs/changeFloatingPointToSlash.ls"
+			],
+			[
+				"changeflo",
+				"lernito-frontend/src/namespaces/funcs/changeFloatingPointToSlash.ls"
+			],
+			[
+				"pack",
+				"lernito-frontend/package.json"
+			],
+			[
+				"commu",
+				"flora-frontend/src/namespaces/communicator/Communicator.ls"
+			],
+			[
+				"subshle",
+				"lernito-frontend/src/namespaces/elements/Question/SubShelfSelector.ls"
+			],
+			[
+				"index",
+				"lernito-frontend/src/entries/index.ls"
+			],
+			[
+				"app",
+				"flora-frontend/src/namespaces/pages/App.ls"
+			],
+			[
+				"homepage",
+				"lernito-frontend/src/namespaces/home/PageStructure.ls"
+			],
+			[
+				"searchpagestr",
+				"lernito-frontend/src/namespaces/k12Search/PageStructure.ls"
+			],
+			[
+				"qu",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"text",
+				"flora-frontend/src/namespaces/elements/TextField.ls"
+			],
+			[
+				"shelflis",
+				"lernito-frontend/src/namespaces/elements/ShelfList.ls"
+			],
+			[
+				"textfie",
+				"flora-frontend/src/namespaces/elements/TextField.ls"
+			],
+			[
+				"userlis",
+				"lernito-frontend/src/namespaces/userManagement/UserList.ls"
+			],
+			[
+				"user",
+				"lernito-frontend/src/namespaces/userManagement/UserList.ls"
+			],
+			[
+				"ques",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"shelfpage",
+				"lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls"
+			],
+			[
+				"k12shelfpage",
+				"lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls"
+			],
+			[
+				"bugre",
+				"lernito-frontend/src/namespaces/elements/Question/BugReporter.ls"
+			],
+			[
+				"action",
+				"lernito-frontend/src/namespaces/batchEntry/actions.ls"
+			],
+			[
+				"searchpage",
+				"lernito-frontend/src/namespaces/k12Search/PageStructure.ls"
+			],
+			[
+				"sideb",
+				"flora-frontend/src/namespaces/general/SideBarAndBodyLayout.ls"
+			],
+			[
+				"subject",
+				"lernito-frontend/src/namespaces/elements/SubjectTree.ls"
+			],
+			[
+				"k12seaac",
+				"lernito-frontend/src/namespaces/k12Search/actions.ls"
+			],
+			[
+				"form",
+				"lernito-frontend/src/namespaces/k12Search/FormView.ls"
+			],
+			[
+				"sing",
+				"lernito-frontend/src/namespaces/elements/SingleSelector.ls"
+			],
+			[
+				"meta",
+				"lernito-frontend/src/namespaces/k12Shelf/MetaForm.ls"
+			],
+			[
+				"useraction",
+				"lernito-frontend/src/namespaces/userManagement/actions.ls"
+			],
+			[
+				"mathjax",
+				"lernito-frontend/src/namespaces/funcs/mathjaxQueue.ls"
+			],
+			[
+				"sideba",
+				"flora-frontend/src/namespaces/general/SideBarAndBodyLayout.ls"
+			],
+			[
+				"searchgett",
+				"flora-frontend/src/namespaces/search/getters.ls"
+			],
+			[
+				"seagette",
+				"flora-frontend/src/namespaces/search/getters.ls"
+			],
+			[
+				"searchgette",
+				"flora-frontend/src/namespaces/search/getters.ls"
+			],
+			[
+				"seargette",
+				"flora-frontend/src/namespaces/search/getters.ls"
+			],
+			[
+				"singl",
+				"lernito-frontend/src/namespaces/elements/SingleSelector.ls"
+			],
+			[
+				"setup",
+				"flora-frontend/src/lib/setupEnv.ls"
+			],
+			[
+				"sidebaand",
+				"flora-frontend/src/namespaces/general/SideBarAndBodyLayout.ls"
+			],
+			[
+				"pac",
+				"flora-frontend/package.json"
+			],
+			[
+				"packge",
+				"lernito-frontend/package.json"
+			],
+			[
+				"side",
+				"flora-frontend/src/namespaces/sideBar/SideBar.ls"
+			],
+			[
+				"item",
+				"flora-frontend/src/namespaces/sideBar/Item.ls"
+			],
+			[
+				"sidebarbo",
+				"flora-frontend/src/namespaces/general/SideBarAndBodyLayout.ls"
+			],
+			[
+				"sessionma",
+				"flora-frontend/src/namespaces/communicator/SessionManager.ls"
+			],
+			[
+				"com",
+				"flora-frontend/src/namespaces/communicator/Communicator.ls"
+			],
+			[
+				"k12pageco",
+				"lernito-frontend/src/namespaces/k12Search/pageController.ls"
+			],
+			[
+				"k12shelpage",
+				"lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls"
+			],
+			[
+				"app.ls",
+				"flora-frontend/src/namespaces/pages/App.ls"
+			],
+			[
+				"sin",
+				"lernito-frontend/src/namespaces/elements/SingleSelector.ls"
+			],
+			[
+				"crea",
+				"flora-frontend/createWebpackConfig.ls"
+			],
+			[
+				"exam",
+				"lernito-frontend/src/namespaces/k12Search/ExamBar.ls"
+			],
+			[
+				"catego",
+				"lernito-frontend/src/namespaces/batchEntry/CategorizeBar.ls"
+			],
+			[
+				"userl",
+				"lernito-frontend/src/namespaces/userManagement/UserList.ls"
+			],
+			[
+				"k12shelfst",
+				"lernito-frontend/src/namespaces/k12Shelf/store.ls"
+			],
+			[
+				"shelfsel",
+				"lernito-frontend/src/namespaces/elements/Question/ShelfSelector.ls"
+			],
+			[
+				"subshe",
+				"lernito-frontend/src/namespaces/elements/Question/SubShelfSelector.ls"
+			],
+			[
+				"ques.st",
+				"lernito-frontend/src/namespaces/elements/Question/Question.styl"
+			],
+			[
+				"k12acti",
+				"lernito-frontend/src/namespaces/k12Shelf/actions.ls"
+			],
+			[
+				"k12shelfstor",
+				"lernito-frontend/src/namespaces/k12Shelf/store.ls"
+			],
+			[
+				"k12shesto",
+				"lernito-frontend/src/namespaces/k12Shelf/store.ls"
+			],
+			[
+				"k12sheac",
+				"lernito-frontend/src/namespaces/k12Shelf/actions.ls"
+			],
+			[
+				"subsh",
+				"lernito-frontend/src/namespaces/elements/Question/SubShelfSelector.ls"
+			],
+			[
+				"toggle",
+				"lernito-frontend/src/namespaces/funcs/communication/toggleBuggyFlag.ls"
+			],
+			[
+				"k12shestore",
+				"lernito-frontend/src/namespaces/k12Shelf/store.ls"
+			],
+			[
+				"k12shelf/ac",
+				"lernito-frontend/src/namespaces/k12Shelf/actions.ls"
+			],
+			[
+				"recorlis",
+				"lernito-frontend/src/namespaces/elements/RecordList.ls"
+			],
+			[
+				"k12searst",
+				"lernito-frontend/src/namespaces/k12Search/store.ls"
+			],
+			[
+				"searchstore",
+				"flora-frontend/src/namespaces/search/store.ls"
+			],
+			[
+				"k12searchac",
+				"lernito-frontend/src/namespaces/k12Search/actions.ls"
+			],
+			[
+				"k12shelfpag",
+				"lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls"
+			],
+			[
+				"bugrep",
+				"lernito-frontend/src/namespaces/elements/Question/BugReporter.ls"
+			],
+			[
+				"",
+				"lernito-frontend/src/namespaces/funcs/communication/toggleBuggyFlag.ls"
+			],
+			[
+				"shelfpages",
+				"lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls"
+			],
+			[
+				"bugreac",
+				"lernito-frontend/src/namespaces/BugReporter/actions.ls"
+			],
+			[
+				"shelfpagestr",
+				"lernito-frontend/src/namespaces/k12Shelf/PageStructure.ls"
+			],
+			[
+				"searchpa",
+				"lernito-frontend/src/namespaces/k12Search/PageStructure.ls"
+			],
+			[
+				"record",
+				"lernito-frontend/src/namespaces/elements/RecordList.ls"
+			],
+			[
+				"bugrepor",
+				"lernito-frontend/src/namespaces/elements/Question/BugReporter.styl"
+			],
+			[
+				"bug",
+				"lernito-frontend/src/namespaces/elements/Question/BugReporter.ls"
+			],
+			[
+				"bugrepo",
+				"lernito-frontend/src/namespaces/elements/Question/BugReporter.ls"
+			],
+			[
+				"question",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"textand",
+				"flora-frontend/src/namespaces/elements/TextAndColorPicker.ls"
+			],
+			[
+				"color",
+				"flora-frontend/src/namespaces/elements/ColorPalette.ls"
+			],
+			[
+				"batchen",
+				"lernito-frontend/src/namespaces/batchEntry/PageStructure.ls"
+			],
+			[
+				"proce",
+				"lernito-frontend/src/namespaces/batchEntry/processText.ls"
+			],
+			[
+				"clean",
+				"lernito-frontend/src/namespaces/batchEntry/cleanUpText.ls"
+			],
+			[
+				"datae",
+				"lernito-frontend/src/namespaces/elements/BatchEntry/DataEntryQuestion.ls"
+			],
+			[
+				"loadin",
+				"lernito-frontend/src/namespaces/elements/Question/Legacy/Loading.styl"
+			],
+			[
+				"pre",
+				"lernito-frontend/src/namespaces/funcs/prepareMathjax.ls"
+			],
+			[
+				"quescon",
+				"lernito-frontend/src/namespaces/elements/Question/QuestionContainer.styl"
+			],
+			[
+				"quequ",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"qucon",
+				"lernito-frontend/src/namespaces/elements/Question/QuestionContainer.ls"
+			],
+			[
+				"queque",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"sess",
+				"flora-frontend/src/namespaces/communicator/SessionManager.ls"
+			],
+			[
+				"ypese",
+				"lernito-frontend/src/namespaces/elements/typeSeter/RecordList.ls"
+			],
+			[
+				"typeque",
+				"lernito-frontend/src/namespaces/elements/typeSeter/Question.ls"
+			],
+			[
+				"aligin",
+				"lernito-frontend/src/namespaces/funcs/alignImagesToLeft.ls"
+			],
+			[
+				"quque",
+				"lernito-frontend/src/namespaces/elements/Question/Question.ls"
+			],
+			[
+				"index.ht",
+				"lernito-frontend/index.html"
+			],
+			[
+				"index.s",
+				"lernito-frontend/src/entries/index.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/Lernito/lernito-frontend/xeno/lernito-flora-frontend.sublime-project"
+			],
+			[
+				"ba",
+				"~/Projects/Lernito/lernito-backend/xeno/lernito-flora-backend.sublime-project"
+			],
+			[
+				"micro",
+				"/Volumes/C/Users/HosseinAgha/Desktop/Micro Projects/xeno/microprocessor.sublime-project"
+			],
+			[
+				"micropr",
+				"/Volumes/C/Users/HosseinAgha/Desktop/Micro Projects/xeno/microprocessor.sublime-project"
+			],
+			[
+				"arch",
+				"/Volumes/C/Users/HosseinAgha/Architectur_Lab/xeno/Architecture-Lab.sublime-project"
+			],
+			[
+				"archi",
+				"/Volumes/C/Users/HosseinAgha/Architectur_Lab/xeno/Architecture-Lab.sublime-project"
+			],
+			[
+				"roserra",
+				"~/Projects/Lernito/Rosetta Project/xeno/Rosetta Project.sublime-project"
+			],
+			[
+				"book",
+				"~/Projects/Bookr/Spinoza/xeno/book-project.sublime-project"
+			],
+			[
+				"vlsi",
+				"~/Desktop/VLSI_FINAL/xeno/VLSI FPGA.sublime-project"
+			],
+			[
+				"k21",
+				"~/Projects/K12/Rosetta Project/xeno/Rosetta Project.sublime-project"
+			],
+			[
+				"k12",
+				"~/Projects/K12/playground/xeno/untitled.sublime-workspace"
+			],
+			[
+				"rose",
+				"~/Projects/K12/Rosetta Project/xeno/Rosetta Project.sublime-project"
+			],
+			[
+				"roset",
+				"~/Projects/K12/Rosetta Project/xeno/Rosetta Project.sublime-project"
+			],
+			[
+				"rosprojec",
+				"~/Projects/K12/Rosetta Project/xeno/Rosetta Project.sublime-project"
+			],
+			[
+				"rosetproject",
+				"~/Projects/K12/Rosetta Project/xeno/Rosetta Project.sublime-project"
+			],
+			[
+				"ro",
+				"~/Documents/My Educational Life/Side Learnings/Javascript/Bootcamp/3/xeno/Rosetta-Bootcamp.sublime-workspace"
+			],
+			[
+				"boot",
+				"~/Documents/My Educational Life/Side Learnings/Javascript/Bootcamp/3/xeno/Rosetta-Bootcamp.sublime-workspace"
+			],
+			[
+				"roseboo",
+				"~/Documents/My Educational Life/Side Learnings/Javascript/Bootcamp/xeno/Rosetta-Bootcamp.sublime-project"
+			],
+			[
+				"rosetbo",
+				"~/Documents/My Educational Life/Side Learnings/Javascript/Bootcamp/3/xeno/Rosetta-Bootcamp.sublime-project"
+			],
+			[
+				"goo",
+				"~/Documents/My Educational Life/Side Learnings/Javascript/Practice/Good Parts Tests/xeno/GoodParts.sublime-project"
+			],
+			[
+				"good",
+				"~/Desktop/Good Parts Tests/xeno/GoodParts.sublime-workspace"
+			],
+			[
+				"mic",
+				"~/Documents/My Educational Life/Projects/Bookr/IntroToPy & PyTest/xeno/IntroToPy.sublime-workspace"
+			],
+			[
+				"html",
+				"~/Desktop/HTML & CSS & Javascript/S5/xeno/project.sublime-workspace"
+			],
+			[
+				"fir",
+				"~/Desktop/First JS Project/xeno/FirstExp-BouncingBall.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
