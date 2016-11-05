@@ -9,4 +9,8 @@ var options = [
   {label: "قلی", value:"قلی"}
 ]
 
-selector = new Selector(document.body, css.selContainer, "Names", options);
+var inputHappend = function (newInputValue, e) {
+  console.log(newInputValue);
+}
+
+selector = new Selector(document.body, css.selContainer, "Names", options, inputHappend);

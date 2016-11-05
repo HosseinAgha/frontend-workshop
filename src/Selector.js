@@ -18,12 +18,13 @@ var _filtering = function(options, inputValue) {
 }
 
 module.exports = class Selector {
-  constructor(parent, className, label, options) {
+  constructor(parent, className, label, options, onInput) {
     this.parent = parent;
     this.className = className;
     this.label = label;
     this.options = options;
     this.visibleOptions = options;
+    this.userOnInput = onInput;
     var elem = this._createTheElement();
     parent.appendChild(elem);
   }
@@ -79,7 +80,8 @@ module.exports = class Selector {
       this.listElem.removeChild(this.listElem.firstChild);
     }
   }
-  onInput(e){
+  onInput(e) {
+    this.userOnInput(e.target.value, e);
     this.inputValue = e.target.value;
     this.visibleOptions = this._filterOptions();
     this._emptyList();
