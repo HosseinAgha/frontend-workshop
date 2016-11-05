@@ -1,12 +1,12 @@
-changeColor = require('./changeBodyColor.js');
-var css = require('./ball.styl');
-console.log("changing color .....");
-// changeColor("lightBlue");
+var css = require('./index.styl');
+Selector = require('./Selector.js');
+var options = [
+  {label: "رعنا", value:"رعنا"},
+  {label: "المیرا", value:"المیرا"},
+  {label: "حسین", value:"حسین"},
+  {label: "پوریا", value:"پوریا"},
+  {label: "علی", value:"علی"},
+  {label: "قلی", value:"قلی"}
+]
 
-var ball = document.createElement('div');
-// ball.style.height = "60px"
-// ball.style.width = "60px"
-// ball.style.background = "red"
-// ball.style.borderRadius = "50%"
-ball.className = css.ball2
-document.body.appendChild(ball);
+selector = new Selector(document.body, css.selContainer, "Names", options);

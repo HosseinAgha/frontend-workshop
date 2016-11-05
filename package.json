@@ -15,6 +15,10 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^2.3.1",
     "webpack": "^1.13.3",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^1.16.2",
+    "webpack-error-notification": "^0.1.6"
+  },
+  "dependencies": {
+    "fuse.js": "^2.5.0"
   }
 }

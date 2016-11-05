@@ -1,4 +1,6 @@
 var path = require('path');
+var WebpackErrorNotificationPlugin =  require('webpack-error-notification');
+
 var webpack = require('webpack');
 
 module.exports = {
@@ -17,10 +19,11 @@ module.exports = {
     loaders: [
       { test: /\.styl$/, loader: "style!css?module&sourceMap&localIdentName=[path]_[name]_[local]_[hash:base64:3]!stylus"}
     ]
-  }
-  // plugins: [
+  },
+  plugins: [
+    new WebpackErrorNotificationPlugin()
   //   new webpack.HotModuleReplacementPlugin()
-  // ],
+  ],
   // module: {
   //   loaders: [{
   //     test: /\.js$/,
